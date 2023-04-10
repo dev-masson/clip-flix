@@ -1,4 +1,5 @@
 README
+______
 Este projeto foi criado para fins de estudo da biblioteca Python chamada django. É uma aplicação web extremamente simples que imita a interface da Netflix, mas ao invés de filmes, apresenta vídeos do YouTube que o usuário adicionou ao sistema.
 
 Instalação
